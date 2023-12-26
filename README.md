@@ -34,11 +34,14 @@ This project is a responsive landing page designed to showcase a product or serv
 
 ```bash
 git clone https://github.com/your-username/product-landing-page.git
+```
+->Open the project folder.
 
-Open the project folder.
 Usage
-Open the index.html file in your web browser to view the product landing page.
-Explore the different sections and interactive elements.
-Experience the animations and transitions implemented using GSAP.
+______________________________________________________________________________
+->Open the index.html file in your web browser to view the product landing page.
+->Explore the different sections and interactive elements.
+->Experience the animations and transitions implemented using GSAP.
+______________________________________________________________________________
 Credits
-This project was created by [Your Name].
+This project was created by @simplyrishiii
