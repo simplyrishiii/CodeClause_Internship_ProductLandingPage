@@ -37,11 +37,14 @@ git clone https://github.com/your-username/product-landing-page.git
 ```
 ->Open the project folder.
 
-Usage
+## Usage
 ______________________________________________________________________________
 ->Open the index.html file in your web browser to view the product landing page.
+<br></br>
 ->Explore the different sections and interactive elements.
+<br></br>
 ->Experience the animations and transitions implemented using GSAP.
 ______________________________________________________________________________
-Credits
+##Credits
+
 This project was created by @simplyrishiii
